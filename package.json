@@ -1,0 +1,16 @@
+{
+  "name": "assignment-01-typescript",
+  "version": "1.0.0",
+  "description": "<h3 align=\"center\">\r <a>Interview Questions</a>\r </h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn --transpile-only ./src/assignment.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
